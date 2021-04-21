@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+    <link rel="stylesheet" href="css/component2.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.default.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <title>Index</title>
+                      <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script src="js/app.js"></script>
+</head>
+
+<body>
+    <script src="js/header.js"></script>
+    <!-- /header -->
+    <div class="mainWrap HomeWrap readMore">
+        <section class="featuresWrap">
+            <div>
+                <div class="innerWrap container">
+                    <div class="backBtnWrap" id="goBack">
+                        <a href="#" class="text-decoration-none"><img src="img/new-img/back.svg" > Back</a>
+                    </div>
+                    <h3 class="color-orange subHeading">Play games and earn QBucks!</h3>
+                    <div class="row align-items-center   mb-5">
+                        <div class="col-md-5">
+                            <img src="img/new-img/readme2.jpeg" class="img-fluid">
+                        </div>
+                        <div class="col-md-7">
+                            <div class="contentWrap">
+                                <h4>Whack-A-Mole</h4>
+                                <p class="mb-4">Whack that pesky Roger mole to earn fantastic prizes or QBucks!</p>
+                                <h4>How it works</h4>
+                                <ul>
+                                    <li>Tap Roger on the head whenever he pops up. Tap him enough in the allotted time,
+                                    and win a great prize!
+                                    </li>
+                                    <li>The successful completion of Whack-A-Mole game 1, will advance you to game 2,
+                                    for even bigger prizes!</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="row align-items-center  flex-direction-mobile mb-5">
+
+                        <div class="col-md-7">
+                            <div class="contentWrap">
+                               <h4>QSpin</h4>
+                               <p class="mb-2">Spin the wheel once per day, for the chance to win fantastic prizes like:</p>
+                               <ul class="giftIcon">
+                                   <li>QBucks</li>
+                                   <li>Trips of a lifetime</li>
+                                   <li>2x, 3x or even 4x your QBucks rewards</li>
+                               </ul>
+                               <h4>How it works</h4>
+                                <ul>
+                                    <li>Spin the wheel and cross your fingers
+                                    </li>
+                                    <li>Earn a second spin per day by watching a short 15 second video.<br>
+                                    Watch 10 videos in a month and be entered into a draw for $5,000.00!!!</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <img src="img/new-img/readme3.png" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- footer -->
+    <script src="js/footer.js"></script>
+
+
+
+    <!-- Optional JavaScript -->
+
+
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.fancybox.js"></script>
+
+    <script src="js/owl.carousel.js"></script>
+    <script>
+        $('.owl-carousel').owlCarousel({
+            loop: true,
+            margin: 10,
+            dots: false,
+            nav: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 1
+                },
+                768: {
+                    items: 2
+                },
+                1000: {
+                    items: 3
+                }
+            }
+        })
+        $('#goBack').on('click',function(){
+            window.history.back()
+        })
+    </script>
+</body>
+
+</html>

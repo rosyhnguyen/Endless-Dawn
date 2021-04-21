@@ -1,0 +1,842 @@
+@media (min-width: 1300px) {
+    .container {
+        max-width: 1300px;
+    }
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0;
+        padding-left: 0;
+        margin-left: 60px;
+    }
+
+    .navbar .menu-right a.register {
+        margin-left: 15px;
+    }
+
+    .navbar-light.navbar .menu-right:before {
+        content: '';
+        position: absolute;
+        left: 1px;
+        top: 4px;
+        background: #1A1A1A;
+        height: 32px;
+        width: 1px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 1440px) {
+    .qNews .sliderWrap {
+        max-width: 1000px;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .header {
+        padding-top: 20px;
+    }
+
+    .header .navbar-brand img {
+        max-width: 85%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 30px;
+    }
+
+    .businessProposeBanner .innerContent {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .businessProposeBanner .innerContent .btnRed {
+        margin-top: 50px;
+    }
+
+    .managerQuote .rightContent p.quote {
+        margin-bottom: 50px;
+    }
+
+    .managerQuote .rightContent {
+        padding: 35px 70px 10px 70px;
+    }
+
+    .HomeWrap .qNews .owl-prev span,
+    .HomeWrap .qNews .owl-next span {
+        height: 30px;
+        width: 30px;
+        background-size: 100%;
+    }
+
+    .HomeWrap .qNews .owl-prev {
+        left: -30px;
+    }
+
+    .HomeWrap .qNews .owl-next {
+        right: -30px;
+    }
+
+    .backBtnWrap {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .readMore .subHeading {
+        margin-top: 0px;
+    }
+
+    .readMore .featuresWrap .contentWrap li br {
+        display: none;
+    }
+
+    .HomeWrap.aboutWrap .businessProposeBanner .innerContent {
+        padding-bottom: 60px;
+    }
+
+    .HomeWrap.aboutWrap .featuresWrap.ourMission {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .HomeWrap.aboutWrap .featuresWrap .innerWrap {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .QclubManagersWrap {
+        padding-bottom: 60px;
+    }
+
+    .joinFast {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .carrers .carrerContainer,
+    .carrers .container,
+    .searchJobBlock,
+    .seacrhResult {
+        max-width: 960px;
+    }
+
+    .searchJobBlock .rightContent span {
+        margin-left: 30px;
+    }
+
+    .jobDescriptionWrap {
+        padding: 170px 0px 132px 0px;
+    }
+
+    .contactUsFormBlock {
+        padding: 130px 0 110px;
+    }
+
+    .privacyPolicyWrap {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+
+    .header {
+
+        padding: 11px 0 15px;
+        background: #fff;
+    }
+
+    header .navbar {
+        align-items: center;
+    }
+
+
+    .header .navbar-brand img {
+        max-width: 55%;
+        height: auto;
+    }
+
+    .navbar-light.navbar .menu-right {
+        border: 0;
+    }
+
+    .navbar .menu-right {
+        padding-left: 0;
+        margin-left: 0;
+        border: 0;
+    }
+
+    .navbar .menu-right a.register {
+        display: block;
+        margin-bottom: 15px;
+        padding: 8px 0;
+    }
+
+    .navbar a.login.nav-link {
+        margin-left: 0;
+        text-decoration: none;
+    }
+
+    .navbar a.login.nav-link {
+        max-width: 160px;
+        margin: auto !important;
+    }
+
+    .compareBenefit table tr th {
+        padding: 25px 10px 25px;
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .pricingModal .modal-body {
+        padding: 40px 20px;
+    }
+
+    .compareBenefit h3 {
+        margin-bottom: 30px;
+    }
+
+    .businessProposeBanner .innerContent .rightImgWrap {
+        padding-left: 0px;
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    .mainWrap {
+        padding-top: 58px;
+    }
+
+    .managerQuote .leftImgWrap,
+    .managerQuote .rightContent {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .managerQuote .btmCloud {
+        display: none;
+    }
+
+    .managerQuote {
+        flex-wrap: wrap;
+        max-width: 519px;
+    }
+
+    .managerQuote .rightContent p.quote {
+        margin-bottom: 30px;
+    }
+
+    .managerQuote .rightContent {
+        padding: 20px;
+    }
+
+    .featuresWrap .left-73 {
+        margin-left: 0px;
+    }
+
+    .featuresWrap .contentWrap h3 {
+        line-height: 45px;
+    }
+
+    .exploreTheFun .subHeading,
+    .featuresWrap .subHeading {
+        margin-bottom: 50px;
+    }
+
+    .areYouFranchiseWrap {
+        padding-bottom: 30px;
+    }
+
+    footer .H500,
+    footer .H300 {
+        margin-bottom: 32px;
+    }
+
+    footer {
+        padding: 40px 0 41px;
+    }
+
+
+
+    .HomeWrap .qNews .owl-prev {
+        left: -40px;
+    }
+
+    .HomeWrap .qNews .owl-next {
+        right: -40px;
+    }
+
+    .HomeWrap .areYouFranchiseWrap .rightImgWrap.text-right {
+        text-align: left !important;
+    }
+
+    .aboutWrap .managerQuote .rightContent {
+        padding: 20px;
+    }
+
+    .carrers .carrerContainer,
+    .carrers .container,
+    .searchJobBlock,
+    .seacrhResult {
+        max-width: 720px;
+    }
+
+    .carrers {
+        padding: 90px 0 100px;
+    }
+
+
+
+    .carrers p {
+        margin-bottom: 20px;
+    }
+
+    .inputSearchBox {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .searchJobBlock {
+        padding: 30px;
+    }
+
+    .searchJobBlock .rightContent:before {
+        display: none;
+    }
+
+    .searchJobBlock .rightContent {
+        padding-left: 0;
+        margin-left: 0px;
+    }
+
+    .searchJobBlock .rightContent span {
+        margin-left: 0;
+    }
+
+    .comingSoon .businessProposeBanner .innerContent h1 {
+        padding-top: 0px;
+        text-align: center;
+    }
+
+    .comingSoon .businessProposeBanner .innerContent p {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .jobDescriptionWrap {
+        padding: 120px 0px 80px 0px;
+    }
+
+    .jobDescriptionWrap .backBtn {
+        margin-bottom: 30px;
+    }
+
+    .contactUsFormBlock {
+        padding: 90px 0 90px;
+    }
+
+
+}
+
+
+@media screen and (max-width: 767px) {
+
+    .header .navbar-brand img {
+        max-width: 55%;
+        height: auto;
+    }
+
+    .compareBenefit table {
+        white-space: nowrap;
+    }
+
+    .compareBenefit table tr th:nth-of-type(2) div {
+        width: 150px;
+    }
+
+
+    .compareBenefit table tr th {
+        font-size: 22px;
+        padding: 19px 10px 19px;
+    }
+
+    .compareBenefit table tr td {
+        font-size: 18px;
+        padding: 10px 19px;
+    }
+
+    .pricingModal .close {
+        width: 43px;
+    }
+
+    .businessProposeBanner .innerContent {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .businessProposeBanner .innerContent h1 {
+        font-size: 30px;
+        line-height: 44px;
+        margin-bottom: 25px;
+    }
+
+    .businessProposeBanner .innerContent li {
+        font-size: 16px;
+    }
+
+    .exploreTheFun h2,
+    .featuresWrap h2,
+    .QclubManagersWrap h2,
+    .effectivemobileAppSolution h2,
+    .moreFunWrap,
+    .qNews h2,
+    .moreFunWrap h2,
+    .learnMore h2,
+    .privacyPolicyWrap h2 {
+        font-size: 30px;
+    }
+
+    .exploreTheFun .subHeading,
+    .featuresWrap .subHeading {
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+
+    .exploreTheFun p {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    .exploreTheFun {
+        padding: 30px 0px 30px 0px;
+    }
+
+    .featuresWrap .innerWrap,
+    .QclubManagersWrap,
+    .discover,
+    .joinFast,
+    .moreFunWrap,
+    .qNews {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .moreFunWrap h2,
+    .qNews h2 {
+        margin-bottom: 40px;
+    }
+
+    .featuresWrap .contentWrap h3 {
+        line-height: 35px;
+        font-size: 25px;
+    }
+
+    .featuresWrap .contentWrap p {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+
+    .featuresWrap .powerfulDashboard.contentWrap,
+    .featuresWrap .contentWrap {
+        padding-bottom: 20px;
+    }
+
+
+    .featuresWrap .left-73 {
+        margin-left: 0px;
+    }
+
+    .flex-direction-mobile {
+        flex-direction: column-reverse;
+    }
+
+    .QclubManagersWrap h4 {
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .QclubManagersWrap h2 {
+        margin-bottom: 40px;
+    }
+
+    .effectivemobileAppSolution h2 {
+        margin-bottom: 40px;
+    }
+
+    .QclubManagersWrap h4,
+    .effectivemobileAppSolution li {
+        font-size: 14px;
+    }
+
+    .effectivemobileAppSolution li {
+        margin-bottom: 22px;
+    }
+
+    .effectivemobileAppSolution .percentage {
+        margin: auto;
+        max-width: 200px;
+        min-height: 200px;
+    }
+
+    .effectivemobileAppSolution .percentage h4 {
+        font-size: 40px;
+        line-height: 70px;
+    }
+
+    .effectivemobileAppSolution {
+        padding-bottom: 30px;
+    }
+
+    .discover h2 {
+        margin-bottom: 18px;
+        font-size: 25px;
+    }
+
+    .discover .logoWrap p {
+        width: 100%;
+        font-size: 30px;
+    }
+
+    .discover .logoWrap {
+        margin-bottom: 14px;
+    }
+
+    .discover .body200 {
+        line-height: 22px;
+        font-size: 14px;
+    }
+
+    .discover .Red500 {
+        margin-top: 12px;
+    }
+
+    .areYouFranchiseWrap {
+        padding-top: 30px;
+    }
+
+    .areYouFranchiseWrap h2 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .areYouFranchiseWrap h3 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .areYouFranchiseWrap p {
+        font-size: 14px;
+    }
+
+    .joinFast h2 {
+        font-size: 30px;
+        line-height: 44px;
+    }
+
+    .joinFast p {
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+
+    footer {
+        padding: 30px 0 30px;
+    }
+
+    footer .footerLogo {
+        margin-bottom: 0px;
+    }
+
+    footer .H300 {
+        font-size: 18px;
+    }
+
+    footer .H500,
+    footer .H300 {
+        margin-bottom: 22px;
+    }
+
+    footer .footerMenu li:last-child {
+        margin-bottom: 20px;
+    }
+
+    footer .footerMenu li a {
+        font-size: 14px;
+    }
+
+    footer .footerBottom {
+        margin-top: 30px;
+    }
+
+    footer .footerWrap {
+        padding: 16px 0 20px;
+    }
+
+    footer .socialMedia {
+        justify-content: start;
+    }
+
+    footer .socialMedia li:first-child {
+        margin-left: 0px;
+    }
+
+    footer .footerBottom p {
+        margin-bottom: 10px;
+    }
+
+    .managerQuote .rightContent p {
+        font-size: 16px;
+    }
+
+    .discover .logoWrap p {
+        line-height: 44px;
+    }
+
+    .HomeWrap .qNews .owl-prev {
+        left: -30px;
+    }
+
+    .HomeWrap .qNews .owl-next {
+        right: -30px;
+    }
+
+    .HomeWrap .qNews .owl-prev span,
+    .HomeWrap .qNews .owl-next span {
+        width: 25px;
+        background-size: 100%;
+        height: 25px;
+    }
+
+
+    .HomeWrap .qNews .sliderWrap {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .HomeWrap .areYouFranchiseWrap {
+        padding-bottom: 0px;
+    }
+
+    .HomeWrap .featuresWrap .mb-5 {
+        margin-bottom: 2rem !important;
+    }
+
+    .HomeWrap .featuresWrap .powerfulDashboard.contentWrap,
+    .HomeWrap .featuresWrap .contentWrap {
+        padding-bottom: 0px;
+    }
+
+    .HomeWrap .featuresWrap .contentWrap h3 {
+        margin-top: 10px;
+    }
+
+    .HomeWrap .featuresWrap h2 {
+        margin-bottom: 30px;
+    }
+
+    .HomeWrap .businessProposeBanner .innerContent {
+        padding-bottom: 30px;
+    }
+
+    .readMore .featuresWrap .contentWrap li {
+        font-size: 14px;
+    }
+
+    .Qcatalog .featuresWrap .row img {
+        margin-bottom: 20px;
+    }
+
+    .readMore .featuresWrap .subHeading {
+        font-size: 26px;
+        margin-bottom: 40px;
+        line-height: 35px;
+    }
+
+    .HomeWrap.aboutWrap .businessProposeBanner .innerContent {
+        padding-bottom: 30px;
+    }
+
+    .HomeWrap.aboutWrap .featuresWrap.ourMission {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .HomeWrap .businessProposeBanner p {
+        font-size: 16px;
+    }
+
+    .learnMore .membershipopportunity {
+
+        margin: auto;
+        margin-bottom: 30px;
+        padding: 20px;
+    }
+
+    .learnMore {
+        padding-bottom: 50px;
+    }
+
+    .learnMore h2 {
+        margin-bottom: 30px;
+    }
+
+    .learnMore .membershipopportunity h3 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    .learnMore .membershipopportunity p {
+        font-size: 14px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .searchJobBlock {
+        padding: 20px;
+    }
+
+    .inputSearchBox input[type="text"] {
+        padding: 12px 66px 12px 20px;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .inputSearchBox input[type="submit"] {
+        padding: 26px 30px;
+    }
+
+    .searchJobBlock .rightContent span {
+        font-size: 20px;
+    }
+
+    .searchJobBlock .rightContent a.contactUs {
+        padding: 8px 19px;
+    }
+
+    .seacrhResult .row {
+        margin-bottom: 40px;
+    }
+
+    .seacrhResult .row div {
+        text-align: center !important;
+    }
+
+    .carrers {
+        height: auto;
+    }
+
+    .carrers {
+        padding: 90px 0 60px;
+    }
+
+    .carrers h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .seacrhResult {
+        padding-top: 30px;
+    }
+
+    footer .dwnlBtn {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .jobDescriptionWrap {
+        padding: 100px 0px 50px 0px;
+    }
+
+    .jobDescriptionWrap .companyDes {
+        margin-top: 30px;
+    }
+
+    .jobDescriptionWrap .companyDes h3 {
+        margin-bottom: 20px;
+    }
+
+    .jobDescriptionWrap .companyDes .jobDes ul {
+        margin-top: 20px;
+    }
+
+    .jobDescriptionWrap .sendResume {
+        padding: 20px;
+        margin-top: 40px;
+    }
+
+    .jobDescriptionWrap .sendResume a {
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .jobDescriptionWrap .sendResume a img {
+        max-width: 24px;
+        flex: 0 0 24px;
+        top: 4px;
+    }
+
+    .contactUsFormBlock {
+        padding: 60px 0 60px;
+    }
+
+    .contactUsFormBlock h2 {
+        margin-bottom: 0px;
+        font-size: 30px;
+    }
+
+    .contactUsFormBlock h5 {
+        font-size: 18px;
+    }
+
+    .contactUsFormBlock .contactForm .customSelect .ui-selectmenu-text {
+        font-size: 14px;
+        height: 40px;
+    }
+
+    .contactUsFormBlock .form-control {
+        padding: 18.5px 13px;
+    }
+
+    .customSelect .ui-selectmenu-button.ui-button {
+        padding: 6px 13px;
+    }
+
+    .privacyPolicyWrap {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .privacyPolicyWrap p {
+        font-size: 14px;
+        margin-bottom: 16px;
+    }
+
+    .privacyPolicyWrap h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .privacyPolicyWrap h2 {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 567px) {
+    .seacrhResult .row {
+        margin-bottom: 0px;
+    }
+
+    .seacrhResult .row>div {
+        margin-bottom: 40px;
+    }
+
+    .searchJobBlock .rightContent span {
+        font-size: 18px;
+    }
+}

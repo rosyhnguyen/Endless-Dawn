@@ -1,0 +1,341 @@
+h1{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 54px;
+	color: #25282B;
+}
+h2{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 44px;
+	color: #25282B;
+}
+h3{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 38px;
+	color: #25282B;
+}
+h4{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 32px;
+	color: #25282B;
+}
+h5{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+	color: #25282B;
+}
+h6{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	color: #25282B;
+}
+.subtitle1{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.1px;
+	color: #25282B;
+}
+.subtitle2{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	letter-spacing: 0.1px;
+	color: #25282B;
+}
+.body1{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.1px;
+	color: #25282B;
+}
+.body2{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	letter-spacing: 0.1px;
+	color: #25282B;
+}
+.small1{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.2px;
+	color: #25282B;
+}
+.small2{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.2px;
+	color: #25282B;
+}
+.small3{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 14px;
+	letter-spacing: 0.2px;
+	color: #25282B;
+}
+.button{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 18px;
+	letter-spacing: 0.2px;
+	color: #25282B;
+}
+.initials{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 13px;
+	line-height: 16px;
+	letter-spacing: 0.2px;
+	color: #25282B;
+}
+.H900{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 72px;
+	line-height: 108px;
+	letter-spacing: -3px;
+	color: #25282B;
+}
+.H800{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 56px;
+	line-height: 67px;
+	letter-spacing: -2px;
+	color: #25282B;
+	margin-bottom: 16px;
+}
+.H700{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 60px;
+	letter-spacing: -1.5px;
+	color: #25282B;
+}
+.H600{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 48px;
+	letter-spacing: -1px;
+	color: #25282B;
+}
+.H500{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 36px;
+	letter-spacing: -0.5px;
+	color: #25282B;
+}
+.H400{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 32px;
+	letter-spacing: -0.3px;
+	color: #25282B;
+}
+.H400B{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 32px;
+	letter-spacing: -0.3px;
+	color: #25282B;
+}
+.H300{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: -0.5px;
+	color: #25282B;
+}
+.H200{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px;
+	letter-spacing: -0.5px;
+	color: #25282B;
+}
+.H100{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: -0.3px;
+	color: #25282B;
+}
+.subtitle{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 32px;
+	letter-spacing: -0.2px;
+	color: #25282B;
+}
+.body-large{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #25282B;
+}
+.body-medium{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 20px;
+	color: #25282B;
+}
+.body-small{
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	color: #25282B;
+}
+.white-bg-gradient{
+	background: linear-gradient(90deg, #ECE9E6 0%, #FFFFFF 94.55%);
+}
+.red-bg-gradient{
+	background: linear-gradient(90deg, #D31027 0%, #EA384D 100%);
+}
+.redGradientBtn{
+	font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.5px;
+    color: #F9F9FA;
+    padding: 12px 24px;
+    background: linear-gradient(90deg, #D31027 0%, #EA384D 100%);
+    box-shadow: 2px 2px 5px rgba(176, 45, 64, 0.1), 4px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: inline-block;
+    border:0;
+}
+.redGradientBtn:hover,
+.redGradientBtn:focus{
+	outline: 0;
+	box-shadow: none;
+}
+.blackBtn{
+	font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.5px;
+    color: #F9F9FA;
+    padding: 12px 24px;
+    background: #25282B;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+/* Indigo / 600 */
+.Indigo600{
+	color: #0C1859;
+}
+
+
+@media  screen and (max-width: 991px){
+	.H900{
+		font-size: 62px;
+		line-height: 98px;
+	}
+	.H800{
+		font-size: 46px;
+		line-height: 57px;
+	}
+	.H700{
+		font-size: 36px;
+	}
+	.H600{
+		font-size: 30px;
+	}
+	.H500{
+		font-size: 22px;
+	}
+
+}
+@media  screen and (max-width: 767px){
+	.H900{
+		font-size: 52px;
+		line-height: 76px;
+	}
+	.H800{
+		font-size: 36px;
+	    line-height: 50px;
+	}
+	.H700{
+		font-size: 32px;
+		line-height: 46px;
+	}
+	.H600{
+		font-size: 26px;
+	}
+	.H500{
+		font-size: 18px;
+	}
+	.H400{
+		font-size: 18px;
+	}
+}

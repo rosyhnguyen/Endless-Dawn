@@ -1,0 +1,499 @@
+/*Buttons */
+.primary-btn {
+    background: #0C1859;
+    border-radius: 4px;
+    border: 2px solid #0C1859;
+}
+
+.primary-btn:hover {
+    background: #3745A0;
+    color: #FAFBFC;
+    text-decoration: none;
+    border: 2px solid #3745A0;
+}
+
+.primary-btn.disable {
+    background: #B3BCF5;
+    border: 2px solid #B3BCF5;
+}
+
+.primary-btn.active,
+.primary-btn:active {
+    background: #0C1859;
+    box-shadow: inset 4px 4px 4px rgba(0, 6, 57, 0.6);
+}
+
+.primary-btn:focus {
+    background: #0C1859;
+    border: 4px solid #B3BCF5;
+}
+
+.secondary-btn {
+    border: 2px solid #0C1859;
+    border-radius: 4px;
+    background: transparent;
+}
+
+.secondary-btn:hover {
+    background: #F4F5FA;
+    border: 2px solid #0C1859;
+    color: #0C1859;
+    text-decoration: none;
+}
+
+.secondary-btn.disable {
+    border: 2px solid #A0A4A8;
+    color: #A0A4A8;
+}
+
+.secondary-btn.active,
+.secondary-btn:active {
+    background: #0C1859;
+    box-shadow: inset 4px 4px 4px rgba(0, 6, 57, 0.6);
+    color: #FAFBFC;
+}
+
+.secondary-btn:focus {
+    border: 4px solid #0C1859;
+}
+
+.primary-btn-L {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.4px;
+    color: #FAFBFC;
+    padding: 10px 24px;
+}
+
+.primary-btn-M {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.4px;
+    color: #FAFBFC;
+    padding: 6px 24px;
+}
+
+.primary-btn-S {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.4px;
+    color: #FAFBFC;
+    padding: 6px 16px;
+}
+
+.secondary-btn-L {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 10px 24px;
+    letter-spacing: -0.4px;
+    color: #0C1859;
+}
+
+.secondary-btn-M {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.4px;
+    color: #0C1859;
+    padding: 6px 24px;
+}
+
+.secondary-btn-S {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.4px;
+    color: #0C1859;
+    padding: 6px 16px;
+}
+
+/*end*/
+
+/*Typography*/
+.H900 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 144px;
+    color: #25282B;
+}
+
+.H800 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 108px;
+    color: #25282B;
+}
+
+.H700 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 84px;
+    color: #25282B;
+}
+
+.H600 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    color: #25282B;
+}
+
+.H500 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 56px;
+    color: #25282B;
+}
+
+.H500-regular {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 56px;
+    color: #25282B;
+}
+
+.H400 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 48px;
+    color: #25282B;
+}
+
+.H300 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 40px;
+    color: #25282B;
+}
+
+.H200 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    color: #25282B;
+}
+
+.H100 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #25282B;
+}
+
+.subtitle {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -0.2px;
+    color: #25282B;
+}
+
+.Subtitle300 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -0.3px;
+    color: #25282B;
+}
+
+.Subtitle200 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: #25282B;
+}
+
+.Subtitle100 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.1px;
+    color: #25282B;
+}
+
+.body300 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #25282B;
+    letter-spacing: 0.1px;
+}
+
+.body200 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 32px;
+    color: #25282B;
+    letter-spacing: 0.1px;
+}
+
+.body100 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    color: #25282B;
+    letter-spacing: -0.2px;
+}
+
+/*end*/
+
+/* Neutrals Colors */
+.N700 {
+    color: #25282B;
+}
+
+.N600 {
+    color: #52575C;
+}
+
+.N500 {
+    color: #A0A4A8;
+}
+
+.N400 {
+    color: #CACCCF;
+}
+
+.N300 {
+    color: #E8E8E8;
+
+}
+
+.N200 {
+    color: #F9F9FA;
+}
+
+.N100 {
+    color: #FAFBFC;
+}
+
+/*end*/
+/*custom classes*/
+.white-bg-gradient {
+    background: linear-gradient(90deg, #ECE9E6 0%, #FFFFFF 94.55%);
+}
+
+.red-bg-gradient {
+    background: linear-gradient(90deg, #D31027 0%, #EA384D 100%);
+}
+
+.redGradientBtn {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.5px;
+    color: #F9F9FA;
+    padding: 12px 24px;
+    background: linear-gradient(90deg, #D31027 0%, #EA384D 100%);
+    box-shadow: 2px 2px 5px rgba(176, 45, 64, 0.1), 4px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: inline-block;
+    border: 0;
+}
+
+.redGradientBtn:hover,
+.redGradientBtn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+.blackBtn {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.5px;
+    color: #F9F9FA;
+    padding: 12px 24px;
+    background: #25282B;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.Indigo600 {
+    color: #0C1859;
+}
+
+.btn-L {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+}
+/*end*/
+@media screen and (max-width: 991px) {
+    .H900 {
+        font-size: 75px;
+        line-height: 100px;
+    }
+
+    .H800 {
+        font-size: 52px;
+        line-height: 72px;
+    }
+
+    .H700 {
+        font-size: 46px;
+        line-height: 64px;
+    }
+
+    .H600 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .H500,
+    .H500-regular {
+        font-size: 35px;
+        line-height: 56px;
+    }
+
+    .H400 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .H300 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .H900 {
+        font-size: 56px;
+        line-height: 76px;
+    }
+
+    .H800 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .H700 {
+
+        font-size: 36px;
+        line-height: 46px;
+    }
+
+    .H600 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .H500,
+    .H500-regular {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+
+    .H400 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .H300 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .H200 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .H100 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .subtitle {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 32px;
+        letter-spacing: -0.2px;
+        color: #25282B;
+    }
+
+    .Subtitle300 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .Subtitle200 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+
+
+    .body300 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .body200 {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+}
+
+
+
